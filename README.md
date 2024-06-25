@@ -1,5 +1,6 @@
 # delicias-automated-order
-- Gspreadd way to fill out order x stock sheets in Google Drive for Delícias de Minas LDA.
+
+Quick way to fill out order x stock sheets in Google Drive for Delícias de Minas LDA.
 
 ## Description
 
